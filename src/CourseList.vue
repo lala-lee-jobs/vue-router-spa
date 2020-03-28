@@ -1,5 +1,5 @@
 <template>
-  <div>App.vue</div>
+  <div>CourseList.vue</div>
 </template>
 
 <script>
